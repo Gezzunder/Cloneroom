@@ -9,3 +9,6 @@ Installation;
 To understand the process used, see the relevant post on the Epoch forums.
 
 Bon apetit
+
+oh yeah, if you're going to use this as is, make sure to change the path to the images
+(hint:  it won't be "\x\addons\cloneroom\art\")
