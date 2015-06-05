@@ -9,6 +9,7 @@ if(count _objects > 0)then{
 		};
 	}forEach _objects;
 };
+_protection=createVehicle["ProtectionZone_Invisible_F",_respawnwest,[],0,"CAN_COLLIDE"];
 _transports = [];
 _deftrans = getArray(configFile >> "CfgEpoch" >> worldname >> "telePos");
 {
